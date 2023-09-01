@@ -1,11 +1,8 @@
 //////////////////////////////////////////////////////////////////////
-// File Name    : proxy_cache.c	                                    //
-// Date         : 2022/05/24                                        //
-// Os           : Ubuntu 16.04 LTS 64bits                           //
-// Author       : Han Sanghyun                                      //
-// Student ID   : 2017202063                                        //
+// File Name    : proxy_cache.c                                     //
+// OS           : Ubuntu 16.04 LTS 64bits                           //
 // ------------------------------------------------------           //
-// Title : System Programming Assignment #3-2 (proxy server)        //
+// Title : System Programming Assignment (proxy server)             //
 // Description  : connect to web browser                            //
 //		  recieve http request                                      //
 //		  extract URL by HTTP request and check HIT/MISS            //
